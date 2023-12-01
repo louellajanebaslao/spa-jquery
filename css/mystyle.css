@@ -1,3 +1,67 @@
 .cliff-h1{
     color: #99ccff;
 }
+
+img{
+    margin-bottom: -14px;
+    width: 150px;
+}
+.bg{
+    background-image: url('https://i.pinimg.com/236x/cb/34/20/cb342064b2f2cff40d8999b9a583aa1a.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 45.3vw;
+}
+.by{
+    text-align: center;
+    color: antiquewhite;
+}
+.abg{
+    background-image: url('https://i.pinimg.com/236x/cb/34/20/cb342064b2f2cff40d8999b9a583aa1a.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 45.3vw;
+    margin-top: -10px;
+}
+.aby{
+    text-align: center;
+    color: antiquewhite;
+}
+.c{
+    color: antiquewhite;
+}
+.c1{
+    background-color: paleturquoise;
+    width: 400px;
+    color: black;
+    text-align: center;
+}
+.c2{
+    background-color: aqua;
+    width: 400px;
+    color: black;
+    text-align: center;
+    margin-left: 450px;
+
+}
+.c3{
+    background-color: aquamarine;
+    width: 400px;
+    color: black;
+    text-align: center;
+    margin-left: 900px;
+}
+.cbg{
+    background-image: url('https://i.pinimg.com/236x/cb/34/20/cb342064b2f2cff40d8999b9a583aa1a.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 45.3vw;
+    margin-top: -10px;
+}
+.cby{
+    text-align: center;
+    color: antiquewhite;
+}
